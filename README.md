@@ -1,4 +1,4 @@
-# vue
+# bitmewvue
 
 ## Project setup
 ```
